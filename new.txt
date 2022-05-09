@@ -2,5 +2,5 @@ First Name: Alex
 Last Name: Hills
 Age: 34
 Pets: 2
-Salary: $100 000 per year
+Salary: $100.000
 
